@@ -179,6 +179,18 @@ header .menu .c-4:hover {background: #e46464;}
 	padding-left: 20px;
 }
 
+.acerca-de .tecnologias{
+	margin-bottom: 40px;
+}
+
+.acerca-de .info .subtitulo {
+	color: #005385;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
 /* --- Contacto --- */
 .contacto {
 	padding: 40px 0;
