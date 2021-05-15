@@ -88,6 +88,9 @@ header .menu .c-4:hover {background: #e46464;}
   	text-align: center;
   	opacity: 0.5;
 }
+.llave{
+	margin-bottom: 20px;
+}
 /* --- Portafolio --- */
 .portafolio {
 	background: #fff;
@@ -237,7 +240,7 @@ header .menu .c-4:hover {background: #e46464;}
 	width: auto;
 	border-radius: 3px;
 }
-
+bbbb
 .formulario .boton:hover {
 	background: #1ba0ef;
 }
